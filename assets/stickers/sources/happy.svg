@@ -1,0 +1,21 @@
+<!-- SPDX-License-Identifier: MIT; original project geometry -->
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<polygon points="118,186 122,83 220,134" fill="#fff5df" stroke="#50382f" stroke-width="8" stroke-linejoin="round"/>
+<polygon points="292,134 390,83 394,186" fill="#fff5df" stroke="#50382f" stroke-width="8" stroke-linejoin="round"/>
+<polygon points="144,150 146,113 182,137" fill="#ffa9b5" stroke="#ffa9b5" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="330,137 366,113 368,150" fill="#ffa9b5" stroke="#ffa9b5" stroke-width="2" stroke-linejoin="round"/>
+<ellipse cx="256.0" cy="267.0" rx="152.0" ry="143.0" fill="#fff5df" stroke="#50382f" stroke-width="8"/>
+<polyline points="168,228 188,215 208,228" fill="none" stroke="#50382f" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="292,228 312,215 332,228" fill="none" stroke="#50382f" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+<ellipse cx="157.0" cy="258.5" rx="21.0" ry="11.5" fill="#ffa9b5" stroke="#ffa9b5" stroke-width="2"/>
+<ellipse cx="355.0" cy="258.5" rx="21.0" ry="11.5" fill="#ffa9b5" stroke="#ffa9b5" stroke-width="2"/>
+<polygon points="246,248 266,248 256,260" fill="#ffa9b5" stroke="#ffa9b5" stroke-width="2" stroke-linejoin="round"/>
+<polyline points="232,274 245,287 256,278 267,287 280,274" fill="none" stroke="#50382f" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="117,273 158,277" fill="none" stroke="#50382f" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="354,277 395,273" fill="none" stroke="#50382f" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="117,291 158,295" fill="none" stroke="#50382f" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="354,295 395,291" fill="none" stroke="#50382f" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<ellipse cx="256.0" cy="330.0" rx="32.0" ry="23.0" fill="#f07888" stroke="#50382f" stroke-width="8"/>
+<polygon points="79,80 84,93 98,94 87,103 91,116 79,108 67,116 71,103 60,94 74,93" fill="#ffd56c" stroke="#d4a849" stroke-width="4" stroke-linejoin="round"/>
+<polygon points="442,102 447,115 461,116 450,125 454,138 442,130 430,138 434,125 423,116 437,115" fill="#ffd56c" stroke="#d4a849" stroke-width="4" stroke-linejoin="round"/>
+</svg>

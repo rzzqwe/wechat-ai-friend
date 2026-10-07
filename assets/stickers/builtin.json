@@ -1,0 +1,68 @@
+[
+  {
+    "file": "hello.png",
+    "label": "你好",
+    "license": "MIT",
+    "source_type": "original-procedural-geometry",
+    "source_svg": "sources/hello.svg",
+    "generator": "scripts/generate_builtin_stickers.py",
+    "uses_external_artwork": false,
+    "uses_fonts": false,
+    "sha256": "e918f6c39281341266b61cb706a31c89953eeae5af9938bc4d19cd7d2d5667d3"
+  },
+  {
+    "file": "happy.png",
+    "label": "开心",
+    "license": "MIT",
+    "source_type": "original-procedural-geometry",
+    "source_svg": "sources/happy.svg",
+    "generator": "scripts/generate_builtin_stickers.py",
+    "uses_external_artwork": false,
+    "uses_fonts": false,
+    "sha256": "c311c90fbbf3f7997b019dfab2ecb64eb6277a134acc7542c20477f0d16727b1"
+  },
+  {
+    "file": "hug.png",
+    "label": "抱抱",
+    "license": "MIT",
+    "source_type": "original-procedural-geometry",
+    "source_svg": "sources/hug.svg",
+    "generator": "scripts/generate_builtin_stickers.py",
+    "uses_external_artwork": false,
+    "uses_fonts": false,
+    "sha256": "286e915875f7999d20e0f24a3d81df014e128ee0b27c1bb5cc8f5350538c836d"
+  },
+  {
+    "file": "goodnight.png",
+    "label": "晚安",
+    "license": "MIT",
+    "source_type": "original-procedural-geometry",
+    "source_svg": "sources/goodnight.svg",
+    "generator": "scripts/generate_builtin_stickers.py",
+    "uses_external_artwork": false,
+    "uses_fonts": false,
+    "sha256": "e88ef5c80989fdb5f273e67009c425acfed84fe2e38ddf77c0250045ebb4ab2d"
+  },
+  {
+    "file": "okay.png",
+    "label": "收到",
+    "license": "MIT",
+    "source_type": "original-procedural-geometry",
+    "source_svg": "sources/okay.svg",
+    "generator": "scripts/generate_builtin_stickers.py",
+    "uses_external_artwork": false,
+    "uses_fonts": false,
+    "sha256": "1ca84ad40b8219178da03a49e78aedb4d2bdbf2876e3890deb048965629f4d72"
+  },
+  {
+    "file": "confused.png",
+    "label": "疑惑",
+    "license": "MIT",
+    "source_type": "original-procedural-geometry",
+    "source_svg": "sources/confused.svg",
+    "generator": "scripts/generate_builtin_stickers.py",
+    "uses_external_artwork": false,
+    "uses_fonts": false,
+    "sha256": "89f41b2a579686dcea3215e18d469a9605b8341c5668bdb2835e32e447df69d7"
+  }
+]

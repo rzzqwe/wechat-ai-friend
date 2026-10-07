@@ -1,0 +1,6 @@
+{
+  "enabled": false,
+  "node_dir": "C:/path/to/node-directory",
+  "bin_dir": "C:/path/to/openclaw/node_modules/.bin",
+  "openclaw_version": "2026.9.6"
+}

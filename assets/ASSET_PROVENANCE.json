@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "source_policy": "Only original fictional examples and procedural artwork.",
+  "assets": [
+    {
+      "file": "examples/persona.md",
+      "license": "MIT",
+      "source": "newly-written-fictional-example",
+      "uses_private_conversations": false,
+      "sha256": "28e937226e5139a7a3a99e0b6bfe42801e040ed8eec01de3edece8c1e5df14a1"
+    },
+    {
+      "file": "examples/demo_chat.md",
+      "license": "MIT",
+      "source": "newly-written-fictional-example",
+      "uses_private_conversations": false,
+      "sha256": "36056ce1647473136671fb271c99be9967f34455eac3ee768ef1da0dd99bae99"
+    },
+    {
+      "file": "assets/stickers/hello.png",
+      "license": "MIT",
+      "source": "original-procedural-geometry",
+      "generator": "scripts/generate_builtin_stickers.py",
+      "uses_external_artwork": false,
+      "uses_fonts": false,
+      "sha256": "e918f6c39281341266b61cb706a31c89953eeae5af9938bc4d19cd7d2d5667d3"
+    },
+    {
+      "file": "assets/stickers/sources/hello.svg",
+      "license": "MIT",
+      "source": "original-procedural-geometry",
+      "generator": "scripts/generate_builtin_stickers.py",
+      "uses_external_artwork": false,
+      "uses_fonts": false,
+      "sha256": "d639361bf4f36864c1c7db8784a556c7465dc7377e3401299231090ce250ca45"
+    },
+    {
+      "file": "assets/stickers/happy.png",
+      "license": "MIT",
+      "source": "original-procedural-geometry",
+      "generator": "scripts/generate_builtin_stickers.py",
+      "uses_external_artwork": false,
+      "uses_fonts": false,
+      "sha256": "c311c90fbbf3f7997b019dfab2ecb64eb6277a134acc7542c20477f0d16727b1"
+    },
+    {
+      "file": "assets/stickers/sources/happy.svg",
+      "license": "MIT",
+      "source": "original-procedural-geometry",
+      "generator": "scripts/generate_builtin_stickers.py",
+      "uses_external_artwork": false,
+      "uses_fonts": false,
+      "sha256": "03095a802fb8aaef1ae892c6961487219f2ad003561577342f46650a9f3ac815"
+    },
+    {
+      "file": "assets/stickers/hug.png",
+      "license": "MIT",
+      "source": "original-procedural-geometry",
+      "generator": "scripts/generate_builtin_stickers.py",
+      "uses_external_artwork": false,
+      "uses_fonts": false,
+      "sha256": "286e915875f7999d20e0f24a3d81df014e128ee0b27c1bb5cc8f5350538c836d"
+    },
+    {
+      "file": "assets/stickers/sources/hug.svg",
+      "license": "MIT",
+      "source": "original-procedural-geometry",
+      "generator": "scripts/generate_builtin_stickers.py",
+      "uses_external_artwork": false,
+      "uses_fonts": false,
+      "sha256": "57ef3303a64a96f60a47746d1c3b3b02feb39bd2ec655d16acba5f8d0628d018"
+    },
+    {
+      "file": "assets/stickers/goodnight.png",
+      "license": "MIT",
+      "source": "original-procedural-geometry",
+      "generator": "scripts/generate_builtin_stickers.py",
+      "uses_external_artwork": false,
+      "uses_fonts": false,
+      "sha256": "e88ef5c80989fdb5f273e67009c425acfed84fe2e38ddf77c0250045ebb4ab2d"
+    },
+    {
+      "file": "assets/stickers/sources/goodnight.svg",
+      "license": "MIT",
+      "source": "original-procedural-geometry",
+      "generator": "scripts/generate_builtin_stickers.py",
+      "uses_external_artwork": false,
+      "uses_fonts": false,
+      "sha256": "9173c52940d1b33173b45162343006b65db43df70675b177eb3c5976583a7d4f"
+    },
+    {
+      "file": "assets/stickers/okay.png",
+      "license": "MIT",
+      "source": "original-procedural-geometry",
+      "generator": "scripts/generate_builtin_stickers.py",
+      "uses_external_artwork": false,
+      "uses_fonts": false,
+      "sha256": "1ca84ad40b8219178da03a49e78aedb4d2bdbf2876e3890deb048965629f4d72"
+    },
+    {
+      "file": "assets/stickers/sources/okay.svg",
+      "license": "MIT",
+      "source": "original-procedural-geometry",
+      "generator": "scripts/generate_builtin_stickers.py",
+      "uses_external_artwork": false,
+      "uses_fonts": false,
+      "sha256": "67ae6c006a21c6af1a0433755d737b2b851cc21c013880b7542d9ba8107095a9"
+    },
+    {
+      "file": "assets/stickers/confused.png",
+      "license": "MIT",
+      "source": "original-procedural-geometry",
+      "generator": "scripts/generate_builtin_stickers.py",
+      "uses_external_artwork": false,
+      "uses_fonts": false,
+      "sha256": "89f41b2a579686dcea3215e18d469a9605b8341c5668bdb2835e32e447df69d7"
+    },
+    {
+      "file": "assets/stickers/sources/confused.svg",
+      "license": "MIT",
+      "source": "original-procedural-geometry",
+      "generator": "scripts/generate_builtin_stickers.py",
+      "uses_external_artwork": false,
+      "uses_fonts": false,
+      "sha256": "733d86af20dc0c7e0d49e59854057ed31ad741c923749a652296763e8fe51aef"
+    }
+  ]
+}

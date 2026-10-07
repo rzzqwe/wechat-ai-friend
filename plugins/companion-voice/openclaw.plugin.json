@@ -1,0 +1,17 @@
+{
+  "id": "wechat-companion-voice",
+  "name": "当前陪伴的语音",
+  "description": "Uses user-configured Fish Audio voices and each companion's private mode settings.",
+  "categories": ["other"],
+  "contracts": {"speechProviders": ["wechat-companion-voice"]},
+  "activation": {"onStartup": true},
+  "configSchema": {
+    "type": "object",
+    "additionalProperties": false,
+    "required": ["pythonExecutable", "projectRoot"],
+    "properties": {
+      "pythonExecutable": {"type": "string", "minLength": 1},
+      "projectRoot": {"type": "string", "minLength": 1}
+    }
+  }
+}
